@@ -1,13 +1,11 @@
-m = int(input("Numarul de linii: "))
-n = int(input("Numarul de coloane: "))
 T = []
 
-for i in range(m):
-    linie = []
-    for j in range(n):
-        x = int(input(f"Elementul T[{i}][{j}]= "))
-        linie.append(x)
-    T.append(linie)
+while True:
+    linie = input()
+    if len(linie) != 0:
+        T.append([int(x) for x in linie.split()])
+    else:
+        break
 
 for linie in T:
     for x in linie:
