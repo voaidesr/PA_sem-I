@@ -1,0 +1,6 @@
+Divide et impera
+
+Impartire succesiva a problemei mari in probleme mai mici.
+De obicei se lucreaza pe vectori. 
+O multime mai mare > 2 multimi mai mici > 4 multimi si mai mici > ... > multimi de dimensiune 1
+(log2 straturi)
