@@ -13,7 +13,7 @@ def missing_number(v, k):
     for i in v:
         x ^= i
     # complexitate de timp O(n)
-    # complexitate de spatiu O(n) - s-ar putea implementa in O(1) daca nu am folosi vector 
+    # complexitate de spatiu O(n) - s-ar putea implementa in O(1) daca nu am folosi vector 7
     return x
 k = int(input())
 v = [int(x) for x in input().split()]
