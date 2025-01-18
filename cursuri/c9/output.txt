@@ -1,0 +1,5 @@
+Se pot programa maxim 4 spectacole
+08:20-09:50 Spectacolul 3
+10:00-11:20 Spectacolul 1
+12:10-13:10 Spectacolul 5
+15:00-15:30 Spectacolul 7
