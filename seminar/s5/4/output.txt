@@ -1,0 +1,5 @@
+Intervalele sunt:
+[500, 680]
+[690, 840]
+[900, 930]
+Lungimea intervalelor este 360
